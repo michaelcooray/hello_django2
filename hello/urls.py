@@ -15,3 +15,4 @@ urlpatterns = [
     path("contact/", views.contact, name="contact"),
     path("log/", views.log_message, name="log"),
 ]
+# Small change
